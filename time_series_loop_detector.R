@@ -1,6 +1,6 @@
 rm(list = ls())
 #setting up the working directory
-setwd("E:/TUM/TUM_Semester_2/Satistical learning/Exam Tasks/Problem_Set_3/Task 3")
+setwd("Filepath")
 
 #install.packages(astsa)
 library(astsa)
